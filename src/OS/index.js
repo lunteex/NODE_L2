@@ -26,4 +26,4 @@ function check() {
     return process.env.MODE === 'admin' || 'user';
 }
     console.log(Inf());
-    console.log(four())
+    console.log(four()) 
